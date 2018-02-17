@@ -1,0 +1,12 @@
+//Load this sketch before you use Arduino as USB to TTY
+
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+
