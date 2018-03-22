@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="serial">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX232-PTH" modelIndex="1857640" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-max232-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xbeeshield-v13" modelIndex="1857641" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/xbeeshield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="1857642" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PHOTON_fix" modelIndex="1857643" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/PHOTON_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Mini-v5" modelIndex="1857644" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino-Mini-v5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduPilotMega_v15" modelIndex="1857645" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/ArduPilotMega_v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Debugger" modelIndex="1857646" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_Debugger.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PROG-" modelIndex="1857647" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-connectors-avr_spi_prog-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TMP102_Breakout-v11" modelIndex="1857648" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/TMP102_Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ITG-3200-v11" modelIndex="1857649" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/ITG-3200-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RGB_matrix_v25" modelIndex="1857650" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/RGB_matrix_v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_pH Circuit" modelIndex="1857651" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_pH Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PROG2-SMD" modelIndex="1857652" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-connectors-avr_spi_prog2-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-FT232RL-SSOP" modelIndex="1857653" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-ft232rl-ssop.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo-(simple)" modelIndex="1857654" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/intel-arduino_galileo-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI Music Shield-v13" modelIndex="1857655" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/MIDI Music Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mp3-trigger-v22" modelIndex="1857656" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/mp3-trigger-v22.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GSM-Quectel_updateTID_2_v1.3" modelIndex="1857657" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/GSM-Quectel_updateTID_2_v1.3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Wireless_SD_v3" modelIndex="1857658" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Wireless_SD_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_WF32" modelIndex="1857659" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/chipkit_WF32.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino-Ethernet-v11" modelIndex="1857660" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino-Ethernet-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Conductivity Circuit" modelIndex="1857661" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_Conductivity Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MIDI_Shield-v13" modelIndex="1857662" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/MIDI_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(iscp)" modelIndex="1857663" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="1857664" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="1857665" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="b7c86ac27f1d86eafa64253206dff603" modelIndex="1857666" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Wiring_S.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_3.3v" modelIndex="1857667" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/FTDI Basic-v13_3.3v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OpenLog" modelIndex="1857668" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/OpenLog.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Serial Port Connector" modelIndex="1857669" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_Serial Port Connector.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RFID_USB_Reader-v14" modelIndex="1857670" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/RFID_USB_Reader-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="gs1011_breakout-v11" modelIndex="1857671" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/gs1011_breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_FRM010" modelIndex="1857672" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/FRM010.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="81591c6c31ccf12f0f3ccec5f150df2d" modelIndex="1857673" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/usbadapter_wiring.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduinoBluetoothMatev13" modelIndex="1857674" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/ArduinoBluetoothMatev13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="1857675" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="1857676" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-DB9-MALE" modelIndex="1857677" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-connectors-db9-male.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1a4bfb87a0f0fd2c59be43f3497d72e6" modelIndex="1857678" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/xbee.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AlphaNumericDisplay-v13" modelIndex="1857679" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/AlphaNumericDisplay-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Leonardo_Rev3(fix)" modelIndex="1857680" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_Leonardo_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HEF4094" modelIndex="1857681" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/HEF4094.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_lily" modelIndex="1857682" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/FTDI Basic-v13_lily.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_ENV-32X" modelIndex="1857683" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_ENV-32X.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-Mini-v12" modelIndex="1857684" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/ProtoShield-Mini-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-ATMEGA2560-AU" modelIndex="1857685" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-atmega2560-au.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SHT1x-Breakout" modelIndex="1857686" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/SHT1x-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-ICL3232-" modelIndex="1857687" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-icl3232-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-TLC5940--RHB" modelIndex="1857688" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-tlc5940--rhb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_CAN-Bus_Shield" modelIndex="1857689" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/SparkFun_CAN-Bus_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AVR_SPI_PROG-PTH" modelIndex="1857690" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/avr_spi_prog-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX7219-DIP" modelIndex="1857691" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-max7219-dip.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Ethernet" modelIndex="1857692" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_Ethernet.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="canbus_shield-v12" modelIndex="1857693" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/canbus_shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_fix" modelIndex="1857694" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/intel_edison_minibreakout_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_bt07" modelIndex="1857695" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_bt07.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="1857696" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="1857697" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74HC595 Shift Reg Breakout-v11" modelIndex="1857698" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/74HC595 Shift Reg Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(fix)" modelIndex="1857699" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2-(simple)" modelIndex="1857700" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/intel-arduino_galileo_gen2-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-DB9-FEMALE" modelIndex="1857701" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-connectors-db9-female.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="23LCV1024_24357530b44412a899aa27521bf5766d_1" modelIndex="1857702" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/23LCV1024_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduinoXbeere" modelIndex="1857703" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/arduinoXbeere.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SPARKCORE_v1_fix" modelIndex="1857704" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/SPARKCORE_v1_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo" modelIndex="1857705" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/intel-arduino_galileo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Level-Converter-v11" modelIndex="1857706" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Level-Converter-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cellular shield-v12" modelIndex="1857707" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/cellular shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_PWR-SNS" modelIndex="1857708" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_PWR-SNS.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RN41-v14" modelIndex="1857709" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/RN41-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="1857710" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="USBHostShield-v13" modelIndex="1857711" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/USBHostShield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX232-SOIC16" modelIndex="1857712" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-max232-soic16.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13" modelIndex="1857713" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/FTDI Basic-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-TLC5940--NT" modelIndex="1857714" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-tlc5940--nt.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ThermalPrinter" modelIndex="1857715" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/thermalprinter.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2" modelIndex="1857716" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/intel-arduino_galileo_gen2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_MIDI_Shield" modelIndex="1857717" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/SparkFun_MIDI_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MP3 Shield-v13" modelIndex="1857718" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/MP3 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="XBee-Regulated-v12" modelIndex="1857719" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/XBee-Regulated-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PROG2-PTH" modelIndex="1857720" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-connectors-avr_spi_prog2-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad_Arduino_USB" modelIndex="1857721" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/LilyPad_Arduino_USB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OBD-II-UART-v13" modelIndex="1857722" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/OBD-II-UART-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266-Thing-Dev" modelIndex="1857723" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/ESP8266-Thing-Dev.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_FLO-30 Circuit" modelIndex="1857724" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_FLO-30 Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX485-DIL" modelIndex="1857725" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-max485-dil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Micro_Rev03(fix)" modelIndex="1857726" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/Arduino_Micro_Rev03(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_bottom_fix" modelIndex="1857727" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/intel_edison_minibreakout-bottom_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-TLC5940-PWP" modelIndex="1857728" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/sparkfun-digitalic-tlc5940-pwp.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FT230XQ_df1159ec8af0eb336d7fbe6068d3aed4_2" modelIndex="1857729" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/FT230XQ_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_ORP Circuit" modelIndex="1857730" path="/home/observativetiger/Downloads/Fritzing/fritzing-parts/core/atlas-sientific_ORP Circuit.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
