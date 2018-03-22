@@ -1,11 +1,12 @@
 #!/bin/sh
 PATH=/opt/bin:/opt/sbin:/sbin:/bin:/usr/sbin:/usr/bin
 # Folder with Debian Jessie
-CHROOT_DIR=/mnt/opt/debian # Some folder outside of sandbox,
+CHROOT_DIR=/dev/sda1/debian
+# Some folder outside of sandbox,
 # will be mounted to /mnt folder in Debian
 # Uncommented "EXT_DIR=" line if you need to
 # mount a folder inside debian (remove #)
-EXT_DIR=/mnt/data/Media/
+#EXT_DIR=/data/Media/
 CHROOT_SERVICES_LIST=/opt/etc/chroot-services.list
 if [ ! -e "$CHROOT_SERVICES_LIST" ]; then
 echo "Please, define Debian services to start in
